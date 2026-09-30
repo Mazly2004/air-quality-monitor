@@ -1,4 +1,4 @@
-# Air Quality Monitoring System (AQI_Project_Sprint)
+# Air Quality Monitoring System 
 
 **Last Updated:** March 2026  
 **Type:** Embedded IoT + Full-Stack Data Pipeline  
